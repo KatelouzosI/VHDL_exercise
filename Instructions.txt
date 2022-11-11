@@ -1,0 +1,12 @@
+You are given a fifo that works on two different clock domains. 
+We ask you to:
+
+1. Fix any bugs in the TB and the code and give a very short description of each one.
+2. insert comments where you see fit in order to make the code more readable.
+3. complete the testbench in order to test the functionality of the o_err_wOnFull and o_err_rOnEmpty signals.
+4. make the width of the fifo generic.
+5. why could the counters be implemented like this? Is there a better counter or a better available implementation?
+6. are there any precautions one should take in order to make a more robust design reguarding the backend flow?
+
+You can download the free version of modelsim software from https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
+
